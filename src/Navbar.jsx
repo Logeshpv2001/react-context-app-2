@@ -22,7 +22,7 @@ function Navbar() {
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item" href="#">
                 <a className=" nav-link" href="#">
-                  H_[o_m]-E
+                  Home
                 </a>
               </li>
               <li className="nav-item">
@@ -38,7 +38,7 @@ function Navbar() {
             </ul>
           </div>
           <a className="navbar-brand" href="#">
-            C⚡-tronics
+            PSV⚡-tronics
           </a>
         </div>
       </nav>
